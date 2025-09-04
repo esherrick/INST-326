@@ -8,7 +8,7 @@ def dog_years(age):
     return(
         0 if age == 0 else
       15 if age == 1 else 
-      24 if age == 2 else 24 + 5 * (age - 2)
+      24 if age == 2 else 22 + 3 * (age - 2)
     )
     
     
