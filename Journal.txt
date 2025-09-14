@@ -1,2 +1,7 @@
+Elijah Sherrick
+INST 326
+9/9/2025
+(The time I wrote this was on the ninth, and then I saw your udpate where every group member needs to submit their own so I copy pasted what I wrote in docs)
+
 My sole use of AI this week was creating my profile with Claude, and after the fact, asking claude about some overall details of the data pipeline. It gave me some key components, those being Data Sources, Ingestion, Processing/Transformation, Storage, and Destination.
 Claude also informed me of some common pipeline patterns, those being Batch Processing, Real-Time/Streaming, and ETL vs ELT. Along with some of the benefits overall of the pipeline.
