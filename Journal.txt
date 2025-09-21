@@ -5,3 +5,6 @@ INST 326
 
 My sole use of AI this week was creating my profile with Claude, and after the fact, asking claude about some overall details of the data pipeline. It gave me some key components, those being Data Sources, Ingestion, Processing/Transformation, Storage, and Destination.
 Claude also informed me of some common pipeline patterns, those being Batch Processing, Real-Time/Streaming, and ETL vs ELT. Along with some of the benefits overall of the pipeline.
+
+9/21/2025
+This week I used AI to help better understand the SQL language. I was stuck on my assignment for class (AI is permitted when you're stuck, and can'g get help otherwise.) and I used Claude to give me a better understanding of what I needed to change in order to finish that assignment. I needed to use the %% function in order to search for all results that would have the string "night" in it.
