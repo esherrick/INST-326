@@ -8,3 +8,6 @@ Claude also informed me of some common pipeline patterns, those being Batch Proc
 
 9/21/2025
 This week I used AI to help better understand the SQL language. I was stuck on my assignment for class (AI is permitted when you're stuck, and can'g get help otherwise.) and I used Claude to give me a better understanding of what I needed to change in order to finish that assignment. I needed to use the %% function in order to search for all results that would have the string "night" in it.
+
+9/28/2025
+This week my main use was once again for my SQL learning. We learned about new commands in our class, and I struggled to understand some of them, so I looked to Claude for help. I also used it to help with some of my week three exercises, I needed some debugging done and made some silly mistakes that took me too long to find out. My error being a typo. I also needed inspiration for a different class, I couldn't think of ways to make the schedule of classes have more or better filters so I used Claude.
