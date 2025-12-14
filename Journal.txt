@@ -39,3 +39,8 @@ This week I barely used any AI. We had Thanksgiving and all I really did was use
 12/7/2025
 This week AI has also been pretty absent for me. I used some brief Claude for help on an assignment for my 201 class. I needed references for a paper and then also needed the AI to go through this spreadsheet and organize the date in ascending order for me.
 
+
+12/14/2025
+
+This week AI was integral in my daily life. I used AI for help with my SQL class, and I couldn't figure out a WHERE and JOIN clause in one of my assignments so I used Claude to help me, and explain the answer. I also used it to help me study for my Geology final, I gave it my previous quizzes and asked Claude to quiz me and then explain why I was right and wrong. I also used it to study in my class im taking online via Udemy to prepare to get my security+ certification.
+
